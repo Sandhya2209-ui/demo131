@@ -1,7 +1,4 @@
-<<<<<<< HEAD
+
 <p>This is a para <p>
 <br>
 <h1>heading</h1>
-=======
-<p>This is a para <p>
->>>>>>> 8c7c858 (Added 2files)
